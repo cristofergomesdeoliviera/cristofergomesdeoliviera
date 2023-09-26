@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cristofergomesdeoliviera
-- 👀 I’m interested in  pensamento computacional
-- 🌱 I’m currently learning ...
+- 👋 meu nome é @cristofergomesdeoliviera
+- 👀 eu estou estudando na alura
+- 🌱 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
